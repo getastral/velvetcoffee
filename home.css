@@ -113,7 +113,7 @@ h3 {
 }
 
 .brunch-desserts {
-    background: url(/brunch_desserts.png);
+    background: url(brunch_desserts.png);
     background-size: cover;
     background-repeat: no-repeat;
     margin-top: 100px;
