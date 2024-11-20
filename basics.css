@@ -24,6 +24,7 @@ h1 {
 
 h2 {
     font-size: 35px;
+    margin: 0;
 }
 
 p {
@@ -75,6 +76,7 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
+    bottom: 0;
 }
 
 
