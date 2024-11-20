@@ -85,7 +85,7 @@ h3 {
 }
 
 .about-us {
-    background: url(../images/about_us.png);
+    background: url(about_us.png);
     background-size: cover;
     background-repeat: no-repeat;
     margin-top: 230px;
@@ -113,7 +113,7 @@ h3 {
 }
 
 .brunch-desserts {
-    background: url(../images/brunch_desserts.png);
+    background: url(/brunch_desserts.png);
     background-size: cover;
     background-repeat: no-repeat;
     margin-top: 100px;
@@ -122,7 +122,7 @@ h3 {
 }
 
 .quality {
-    background: url(../images/quality.png);
+    background: url(quality.png);
     background-size: cover;
     background-repeat: no-repeat;
     margin-top: 100px;
